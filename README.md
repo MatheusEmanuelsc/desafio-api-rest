@@ -1,3 +1,3 @@
 # desafio-api-rest
 
-Java Restful api
+Criando pequena api praticando
